@@ -1,0 +1,4 @@
+2022,Cafe Buen día de 50 g,20,1.25
+2023,Harina de trigo 1k,20,2.0
+2024,Cubeta de huevos,200,3.5
+2025,Aceite palma de oro 900ml,20,1.75
